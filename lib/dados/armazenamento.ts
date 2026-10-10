@@ -4,10 +4,14 @@ import path from "node:path";
 import { NextResponse } from "next/server";
 import { createServiceClient } from "@/lib/supabase/server";
 import { modoLocal } from "./motor";
+import { acessoAberto } from "@/lib/auth/acesso-aberto";
 import { PASTA_LOCAL } from "./motor-local";
 
 /**
- * Onde os arquivos moram, e como saem. Mesma escolha do motor (lib/dados/motor.ts):
+ * Onde os arquivos moram, e como saem:
+ *
+ *   • site aberto (lib/config/modo.ts) → public/fichas/ do próprio site, 302 para lá;
+ *   • senão, a mesma escolha do motor (lib/dados/motor.ts):
  *
  *   • supabase → bucket PRIVADO `fichas` + URL assinada de 1h + 302. Os bytes
  *                não passam pela Vercel e um link colado num grupo morre sozinho.
@@ -58,6 +62,16 @@ const TIPOS: Record<string, string> = {
  * (Content-Disposition: attachment) em vez de mostrar a imagem.
  */
 export async function entregarArquivo(caminho: string, download?: string): Promise<NextResponse> {
+  // SITE ABERTO: sem banco e sem bucket. As fichas são arquivos estáticos em
+  // public/fichas/ (no repositório), e a rota só aponta para elas. O download
+  // com nome de arquivo fica por conta do atributo `download` do link.
+  if (acessoAberto()) {
+    return new NextResponse(null, {
+      status: 302,
+      headers: { Location: `/fichas/${caminho}`, "Cache-Control": "public, max-age=3600" },
+    });
+  }
+
   if (modoLocal()) {
     let bytes: Buffer;
     try {

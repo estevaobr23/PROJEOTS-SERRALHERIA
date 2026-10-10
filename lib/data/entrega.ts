@@ -3,6 +3,7 @@ import { NextResponse } from "next/server";
 import { possuiProjetos } from "@/lib/data/biblioteca";
 import { projetoPorId } from "@/lib/config/projetos";
 import { entregarArquivo } from "@/lib/dados/armazenamento";
+import { acessoAberto } from "@/lib/auth/acesso-aberto";
 
 /**
  * Entrega das fichas. TRÊS TRAVAS, nesta ordem:
@@ -33,7 +34,9 @@ export async function entregarFicha(id: string, tipo: TipoEntrega): Promise<Next
   const projeto = projetoPorId(id);
   if (!projeto) return naoEncontrado();
 
-  if (tipo === "miniatura") return entregarArquivo(projeto.miniatura.caminho);
+  // Site aberto: só os originais estão em public/fichas (130 MB de miniaturas
+  // a mais no repositório não compram nada) — o card usa o próprio original.
+  if (tipo === "miniatura") return entregarArquivo(acessoAberto() ? projeto.ficha.caminho : projeto.miniatura.caminho);
   if (tipo === "download") return entregarArquivo(projeto.ficha.caminho, `${projeto.id}.png`);
   return entregarArquivo(projeto.ficha.caminho);
 }

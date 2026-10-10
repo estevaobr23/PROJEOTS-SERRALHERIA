@@ -16,6 +16,9 @@
  *   lib/config/arquivos.json  → quais fichas EXISTEM no armazenamento, com a
  *                               dimensão real lida do cabeçalho do PNG
  *
+ * SITE ABERTO: o original também é copiado para public/fichas/ficha/ — é de lá
+ * que o site (sem banco, sem login) serve as fichas, inclusive na Vercel.
+ *
  * ARMAZENAMENTO (mesma regra do app, lib/dados/motor.ts):
  *   • com NEXT_PUBLIC_SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY → sobe para o
  *     bucket PRIVADO `fichas`; arquivo que já está lá com o mesmo tamanho é
@@ -309,6 +312,11 @@ async function principal() {
     }
     const img = lerImagem(local);
     const caminhoFicha = await guardar("ficha", `${p.id}.${img.ext}`, img.bytes, img.tipo);
+
+    // SITE ABERTO: o original também vai para public/fichas/ficha/ (vai no Git e é servido direto).
+    mkdirSync(path.join("public", "fichas", "ficha"), { recursive: true });
+    const alvoSite = path.join("public", "fichas", caminhoFicha);
+    if (!existsSync(alvoSite) || statSync(alvoSite).size !== img.bytes.length) writeFileSync(alvoSite, img.bytes);
 
     // sem resize e sem perda: effort 6 = a compressão mais cuidadosa (mais lenta, menor)
     const { data: mini, info } = await sharp(img.bytes)
