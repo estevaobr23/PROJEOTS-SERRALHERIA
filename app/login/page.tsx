@@ -13,6 +13,7 @@ const ERROS: Record<string, string> = {
   sem_acesso:
     "Não encontramos uma compra aprovada com esse e-mail. Use o mesmo e-mail que você informou no pagamento.",
   sessao_expirada: "Sua sessão terminou. Entre de novo com o seu e-mail.",
+  indisponivel: "O acesso está indisponível no momento. Tente de novo em instantes.",
 };
 
 export default async function PaginaLogin({

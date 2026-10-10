@@ -19,7 +19,16 @@ export async function entrar(formData: FormData) {
 
   if (!analisado.success) redirect("/login?erro=email_invalido");
 
-  const customer = await findLoginEligibleCustomer(analisado.data);
+  // Falha de INFRAESTRUTURA (banco não configurado, Supabase fora do ar) não é
+  // "e-mail sem compra": vira mensagem própria em vez da página de erro genérica.
+  // O redirect() precisa ficar FORA do try — ele funciona lançando uma exceção.
+  let customer;
+  try {
+    customer = await findLoginEligibleCustomer(analisado.data);
+  } catch (e) {
+    console.error("[login] falha ao consultar o motor de acesso:", e instanceof Error ? e.message : e);
+    redirect("/login?erro=indisponivel");
+  }
   if (!customer) redirect("/login?erro=sem_acesso");
 
   const cabecalhos = await headers();
