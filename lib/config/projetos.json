@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "REF-01",
+  "numero": "01",
+  "nome": "Barra de Apoio para Tríceps (barra reta)",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Mergulho em barra reta (straight bar dip) e apoio de tríceps: a pessoa sobe e fica POR CIMA da barra, braços estendidos, corpo na frente da barra; flexiona e estende os cotovelos. NÃO é barra fixa — ninguém fica pendurado embaixo.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW30",
+   "fabricante": "Benito",
+   "modelo": "Barra simple",
+   "zona": {
+    "aMm": 5250,
+    "bMm": 3450
+   },
+   "areaM2": 17,
+   "quedaMm": 1000,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-02",
+  "numero": "02",
+  "nome": "Barra Fixa Dupla Push/Pull",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra alta: barra fixa (pull-up, pendurado embaixo). Barra baixa: remada invertida (australiana) ou flexão inclinada.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW14",
+   "fabricante": "Benito",
+   "modelo": "Nivel",
+   "zona": {
+    "aMm": 5050,
+    "bMm": 3830
+   },
+   "areaM2": 18,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-03",
+  "numero": "03",
+  "nome": "Barra Fixa Tripla Progressiva",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa em 3 alturas: alta para pull-up, média para iniciante com apoio dos pés, baixa para remada invertida.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW15",
+   "fabricante": "Benito",
+   "modelo": "Doble Nivel",
+   "zona": {
+    "aMm": 6980,
+    "bMm": 3830
+   },
+   "areaM2": 25,
+   "quedaMm": 1300,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-04",
+  "numero": "04",
+  "nome": "Barra Fixa de Parede",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa (pull-up / chin-up): a pessoa fica pendurada EMBAIXO da barra e puxa o corpo até o queixo passar da barra.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Parede",
+  "referencia": null
+ },
+ {
+  "id": "REF-05",
+  "numero": "05",
+  "nome": "Barra Fixa Independente",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa (pull-up / chin-up), pendurado embaixo da barra.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW11",
+   "fabricante": "Benito",
+   "modelo": "Pull-up x1",
+   "zona": {
+    "aMm": 4530,
+    "bMm": 3130
+   },
+   "areaM2": 13,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-06",
+  "numero": "06",
+  "nome": "Pull-up Duplo",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa para 2 pessoas ao mesmo tempo, pendurado embaixo das barras.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW12",
+   "fabricante": "Benito",
+   "modelo": "Pull-up x2",
+   "zona": {
+    "aMm": 5930,
+    "bMm": 3130
+   },
+   "areaM2": 17,
+   "quedaMm": 1300,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-07",
+  "numero": "07",
+  "nome": "Barra Fixa Reforçada (Área Externa)",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa (pull-up), pendurado embaixo, uso público intenso.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Externo (base de concreto)",
+  "referencia": null
+ },
+ {
+  "id": "REF-08",
+  "numero": "08",
+  "nome": "Barra Fixa de Teto",
+  "secao": "Barras fixas e variações",
+  "exercicio": "Barra fixa (pull-up), pendurado embaixo; presa no teto.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Teto",
+  "referencia": null
+ },
+ {
+  "id": "REF-09",
+  "numero": "09",
+  "nome": "Paralela Alta Dupla",
+  "secao": "Paralelas",
+  "exercicio": "Mergulho nas paralelas (dips): a pessoa fica entre as duas barras, apoiada com as mãos por cima delas, pés fora do chão.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW02",
+   "fabricante": "Benito",
+   "modelo": "Parallel Bars x2",
+   "zona": {
+    "aMm": 5000,
+    "bMm": 3650
+   },
+   "areaM2": 17,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-10",
+  "numero": "10",
+  "nome": "Paralela Alta Tripla",
+  "secao": "Paralelas",
+  "exercicio": "Mergulho (dips) com 3 barras — escolhe a largura da pegada usando duas delas.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW03",
+   "fabricante": "Benito",
+   "modelo": "Parallel Bars x3",
+   "zona": {
+    "aMm": 5000,
+    "bMm": 4250
+   },
+   "areaM2": 19,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-11",
+  "numero": "11",
+  "nome": "Paralela Baixa Dupla",
+  "secao": "Paralelas",
+  "exercicio": "Flexão com apoio nas barras, L-sit e mergulho baixo com as pernas à frente.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW23",
+   "fabricante": "Benito",
+   "modelo": "Barras paralelas bajas x2",
+   "zona": {
+    "aMm": 5000,
+    "bMm": 3650
+   },
+   "areaM2": 17,
+   "quedaMm": null,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-12",
+  "numero": "12",
+  "nome": "Paralela Baixa Tripla",
+  "secao": "Paralelas",
+  "exercicio": "Flexão com apoio, L-sit e mergulho baixo — 3 barras para variar a largura.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW24",
+   "fabricante": "Benito",
+   "modelo": "Barras paralelas bajas x3",
+   "zona": {
+    "aMm": 5000,
+    "bMm": 4250
+   },
+   "areaM2": 19,
+   "quedaMm": null,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-13",
+  "numero": "13",
+  "nome": "Paralela Postes Retos",
+  "secao": "Paralelas",
+  "exercicio": "Mergulho nas paralelas (dips), apoiado por cima das barras.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW201",
+   "fabricante": "Kompan",
+   "modelo": "Parallel Bars (Kompan)",
+   "zona": {
+    "aMm": 3780,
+    "bMm": 2460
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": 2,
+   "tuboBarras": "Ø38mm"
+  }
+ },
+ {
+  "id": "REF-14",
+  "numero": "14",
+  "nome": "Paralela Alturas Assimétricas",
+  "secao": "Paralelas",
+  "exercicio": "Mergulho (dips) em duas alturas diferentes — uma mais acessível (inclusiva).",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW31",
+   "fabricante": "Benito",
+   "modelo": "Barra paralelas inclusivas",
+   "zona": {
+    "aMm": 5000,
+    "bMm": 3650
+   },
+   "areaM2": 17,
+   "quedaMm": 1400,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-15",
+  "numero": "15",
+  "nome": "Trave de Agachamento",
+  "secao": "Paralelas",
+  "exercicio": "Apoio da barra olímpica para agachamento e supino com peso livre (a barra descansa nos ganchos).",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": null
+ },
+ {
+  "id": "REF-16",
+  "numero": "16",
+  "nome": "Monkey Bars Simples",
+  "secao": "Monkey bars / travessia",
+  "exercicio": "Travessia suspensa: pendurado, a pessoa avança trocando as mãos de degrau em degrau.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW25",
+   "fabricante": "Benito",
+   "modelo": "Monkey Bars x1",
+   "zona": {
+    "aMm": 4930,
+    "bMm": 4730
+   },
+   "areaM2": 22,
+   "quedaMm": 1300,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-17",
+  "numero": "17",
+  "nome": "Monkey Bars Estendido",
+  "secao": "Monkey bars / travessia",
+  "exercicio": "Travessia suspensa mais longa, mão a mão.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW04",
+   "fabricante": "Benito",
+   "modelo": "Monkey Bars x2",
+   "zona": {
+    "aMm": 6730,
+    "bMm": 4930
+   },
+   "areaM2": 32,
+   "quedaMm": 1300,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-18",
+  "numero": "18",
+  "nome": "Monkey Bars Inclinado",
+  "secao": "Monkey bars / travessia",
+  "exercicio": "Travessia suspensa em subida, mão a mão.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW27",
+   "fabricante": "Benito",
+   "modelo": "Monkey Bars inclinado",
+   "zona": {
+    "aMm": 4800,
+    "bMm": 4730
+   },
+   "areaM2": 21,
+   "quedaMm": 1000,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-19",
+  "numero": "19",
+  "nome": "Barra Ondulada (Snake)",
+  "secao": "Monkey bars / travessia",
+  "exercicio": "Travessia suspensa em zigue-zague, mão a mão pela barra ondulada.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW05",
+   "fabricante": "Benito",
+   "modelo": "Snake",
+   "zona": {
+    "aMm": 5250,
+    "bMm": 3640
+   },
+   "areaM2": 18,
+   "quedaMm": 1100,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-20",
+  "numero": "20",
+  "nome": "Estação Combinada Barra + Monkey",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Barra fixa (pull-up) e travessia suspensa curta.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW16",
+   "fabricante": "Benito",
+   "modelo": "Mixto A",
+   "zona": {
+    "aMm": 4530,
+    "bMm": 4530
+   },
+   "areaM2": 19,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-21",
+  "numero": "21",
+  "nome": "Banco Abdominal Reto",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Abdominal, prancha e elevação de quadril sobre o banco.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW06",
+   "fabricante": "Benito",
+   "modelo": "Abdominal P",
+   "zona": {
+    "aMm": 4700,
+    "bMm": 3800
+   },
+   "areaM2": 19,
+   "quedaMm": 500,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-22",
+  "numero": "22",
+  "nome": "Banco Abdominal Inclinado + Barra",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Abdominal inclinado com os pés presos na barra baixa; a barra alta também serve para pull-up.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW07",
+   "fabricante": "Benito",
+   "modelo": "Abdominal I",
+   "zona": {
+    "aMm": 4690,
+    "bMm": 3800
+   },
+   "areaM2": 16,
+   "quedaMm": 900,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-23",
+  "numero": "23",
+  "nome": "Estação de Flexão (Push-ups)",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Flexão inclinada com as mãos na barra — 3 alturas = 3 níveis de dificuldade.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW13",
+   "fabricante": "Benito",
+   "modelo": "Push-ups",
+   "zona": {
+    "aMm": 7390,
+    "bMm": 3130
+   },
+   "areaM2": 22,
+   "quedaMm": 1360,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-24",
+  "numero": "24",
+  "nome": "Estrutura Tipo Cavalo (Pommel)",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Apoio e saltos sobre as alças em arco (apoio de braços, L-sit, passagem de pernas).",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW09",
+   "fabricante": "Benito",
+   "modelo": "Pommel Horse",
+   "zona": {
+    "aMm": 5250,
+    "bMm": 3450
+   },
+   "areaM2": 17,
+   "quedaMm": 1000,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-25",
+  "numero": "25",
+  "nome": "Power Tower",
+  "secao": "Estações combinadas reais",
+  "exercicio": "Barra fixa no topo, mergulho (dips) nas alças do meio e elevação de joelhos com os antebraços apoiados.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": null
+ },
+ {
+  "id": "REF-26",
+  "numero": "26",
+  "nome": "Postes de Equilíbrio",
+  "secao": "Equilíbrio",
+  "exercicio": "Saltar e se equilibrar de uma plataforma para outra.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW08",
+   "fabricante": "Benito",
+   "modelo": "Puntos de equilibrio",
+   "zona": {
+    "aMm": 6200,
+    "bMm": 4650
+   },
+   "areaM2": 27,
+   "quedaMm": 570,
+   "usuarios": 2,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-27",
+  "numero": "27",
+  "nome": "Trilho de Equilíbrio",
+  "secao": "Equilíbrio",
+  "exercicio": "Caminhar equilibrando sobre a viga baixa.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_PCM80721",
+   "fabricante": "Kompan",
+   "modelo": "Balance Beam (Kompan)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-28",
+  "numero": "28",
+  "nome": "Espaldar de Parede",
+  "secao": "Espaldar",
+  "exercicio": "Alongamento, elevação de pernas pendurado e escalada nos degraus.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Parede",
+  "referencia": {
+   "codigo": "JSW01",
+   "fabricante": "Benito",
+   "modelo": "Wall Bars",
+   "zona": {
+    "aMm": 4540,
+    "bMm": 3130
+   },
+   "areaM2": 13,
+   "quedaMm": 1400,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-29",
+  "numero": "29",
+  "nome": "Espaldar Autoportante",
+  "secao": "Espaldar",
+  "exercicio": "Alongamento, elevação de pernas pendurado e escalada nos degraus — sem precisar de parede.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KENGURU_Andra",
+   "fabricante": "Kenguru",
+   "modelo": "Андра — шведская стенка (Kenguru)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-30",
+  "numero": "30",
+  "nome": "Rack de Parede para Barra Olímpica",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Armazenamento de barras (não é aparelho de exercício).",
+  "alturaUso": "não se aplica",
+  "instalacao": "Parede",
+  "referencia": null
+ },
+ {
+  "id": "REF-31",
+  "numero": "31",
+  "nome": "Rack Vertical para Anilhas",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Armazenamento de anilhas (não é aparelho de exercício).",
+  "alturaUso": "não se aplica",
+  "instalacao": "Parede ou chão",
+  "referencia": null
+ },
+ {
+  "id": "REF-32",
+  "numero": "32",
+  "nome": "Suporte para Corda Naval",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Ancorar a corda naval (battle rope) para exercícios de ondulação.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Chão",
+  "referencia": null
+ },
+ {
+  "id": "REF-33",
+  "numero": "33",
+  "nome": "Suporte de Teto para Saco de Pancada",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Pendurar saco de pancada para treino de boxe.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Teto",
+  "referencia": null
+ },
+ {
+  "id": "REF-34",
+  "numero": "34",
+  "nome": "Banco de Musculação Reto",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Base para supino com halteres, mergulho no banco e step-up.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": null
+ },
+ {
+  "id": "REF-35",
+  "numero": "35",
+  "nome": "Trave de Agachamento Dupla",
+  "secao": "Acessórios/módulos de estrutura tubular simples",
+  "exercicio": "Apoio da barra olímpica para agachamento e supino.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": null
+ },
+ {
+  "id": "REF-36",
+  "numero": "36",
+  "nome": "Mixto B (Espaldar + Barra em X)",
+  "secao": "Parques e combinações maiores",
+  "exercicio": "Espaldar (alongamento/escalada) + barra fixa (pull-up).",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW17",
+   "fabricante": "Benito",
+   "modelo": "Mixto B",
+   "zona": {
+    "aMm": 4530,
+    "bMm": 4530
+   },
+   "areaM2": 19,
+   "quedaMm": 1360,
+   "usuarios": 4,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-37",
+  "numero": "37",
+  "nome": "Mixto C (Parque 2 Módulos)",
+  "secao": "Parques e combinações maiores",
+  "exercicio": "Parque: barra fixa, travessia, espaldar e bancos de abdominal.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW18",
+   "fabricante": "Benito",
+   "modelo": "Mixto C",
+   "zona": {
+    "aMm": 6090,
+    "bMm": 5850
+   },
+   "areaM2": 34,
+   "quedaMm": 1370,
+   "usuarios": 6,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-38",
+  "numero": "38",
+  "nome": "Mixto D (Parque Completo)",
+  "secao": "Parques e combinações maiores",
+  "exercicio": "Circuito: travessia em zigue-zague, barras fixas, espaldar e banco inclinado.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW19",
+   "fabricante": "Benito",
+   "modelo": "Mixto D",
+   "zona": {
+    "aMm": 9410,
+    "bMm": 6350
+   },
+   "areaM2": 48,
+   "quedaMm": 1370,
+   "usuarios": 6,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-39",
+  "numero": "39",
+  "nome": "Barra Fixa Dupla Largura Variável",
+  "secao": "Parques e combinações maiores",
+  "exercicio": "Barra fixa (pull-up) com pegada larga ou estreita, pendurado embaixo.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW28",
+   "fabricante": "Benito",
+   "modelo": "Nivel ancho variable",
+   "zona": {
+    "aMm": 5100,
+    "bMm": 3850
+   },
+   "areaM2": 18,
+   "quedaMm": 1300,
+   "usuarios": 1,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-40",
+  "numero": "40",
+  "nome": "Monkey Bars Inclinado + Reto",
+  "secao": "Parques e combinações maiores",
+  "exercicio": "Travessia suspensa com trecho em subida e trecho reto.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "JSW29",
+   "fabricante": "Benito",
+   "modelo": "Monkey Bars inclinado + recto",
+   "zona": {
+    "aMm": 6660,
+    "bMm": 4740
+   },
+   "areaM2": 32,
+   "quedaMm": 1200,
+   "usuarios": 2,
+   "tuboBarras": "Ø40x3mm"
+  }
+ },
+ {
+  "id": "REF-41",
+  "numero": "41",
+  "nome": "Banco Declinado",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Abdominal declinado com os pés presos no apoio.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_decline-bench",
+   "fabricante": "SKOR",
+   "modelo": "Decline bench (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-42",
+  "numero": "42",
+  "nome": "Estação de Dips Multi-alturas",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Mergulho (dips) apoiado por cima das alças em U de alturas diferentes.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_dip-bars",
+   "fabricante": "SKOR",
+   "modelo": "Dip Bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-43",
+  "numero": "43",
+  "nome": "Banco de Hiperextensão / Abdominal",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Extensão lombar (hiperextensão) a 45° e abdominal inclinado.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_sit-up-bench-hyperextension",
+   "fabricante": "SKOR",
+   "modelo": "Gymnastic Line Sit Up Bench Hyperextension (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": 2,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-44",
+  "numero": "44",
+  "nome": "Paralela de Mergulho em Pedestal",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Mergulho (dips) apoiado por cima das duas barras.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_gymnastic-parallel-bars",
+   "fabricante": "SKOR",
+   "modelo": "Gymnastic Line Parallel Bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-45",
+  "numero": "45",
+  "nome": "Pórtico com Argolas",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Exercícios nas argolas: remada, mergulho em argola, muscle-up.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_outdoor-calisthenics-station",
+   "fabricante": "SKOR",
+   "modelo": "Outdoor calisthenics station (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-46",
+  "numero": "46",
+  "nome": "Travessia de Argolas Suspensas",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Travessia balançando de argola em argola, pendurado.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_ninja-rings",
+   "fabricante": "SKOR",
+   "modelo": "Ninja Hanging Rings Course (SKOR)",
+   "zona": {
+    "aMm": 18800,
+    "bMm": 8000
+   },
+   "areaM2": null,
+   "quedaMm": 2000,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-47",
+  "numero": "47",
+  "nome": "Barras de Equilíbrio em Ziguezague",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Caminhar equilibrando nas barras baixas.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_balance-bars",
+   "fabricante": "SKOR",
+   "modelo": "Balance bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-48",
+  "numero": "48",
+  "nome": "Barra Australiana",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Remada invertida: deitado embaixo da barra baixa, pés no chão, puxa o peito até a barra.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_australian-pull-up-bars",
+   "fabricante": "SKOR",
+   "modelo": "Workout Line Australian Pull Up Bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": "Ø30 mm"
+  }
+ },
+ {
+  "id": "REF-49",
+  "numero": "49",
+  "nome": "Espaldar Duplo com Barra Central",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Espaldar (alongamento/escalada) + barra fixa no meio.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_wall-bars-2",
+   "fabricante": "SKOR",
+   "modelo": "Workout Line Wall Bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-50",
+  "numero": "50",
+  "nome": "Barra Desnivelada + Paralela",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Barra fixa em duas alturas + mergulho (dips) na paralela.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "SKOR_uneven-pull-up-parallel",
+   "fabricante": "SKOR",
+   "modelo": "Workout Line Uneven Pull Up and Parallel Bars (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-51",
+  "numero": "51",
+  "nome": "Suporte de Chão para Saco de Pancada",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Treino de boxe no saco de pancada.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Chão",
+  "referencia": {
+   "codigo": "SKOR_heavy-punching-bag-stand",
+   "fabricante": "SKOR",
+   "modelo": "Boxing Line Heavy Punching Bag Stand (SKOR)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-52",
+  "numero": "52",
+  "nome": "Plataformas de Salto",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Salto na caixa (box jump) e step-up em 3 alturas.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW219",
+   "fabricante": "Kompan",
+   "modelo": "Combi Steps FSW219 (Kompan)",
+   "zona": {
+    "aMm": 3610,
+    "bMm": 9420
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-53",
+  "numero": "53",
+  "nome": "Barras em Triângulo",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Barra fixa em 3 alturas, até 3 pessoas.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KENGURU_Terney",
+   "fabricante": "Kenguru",
+   "modelo": "Терней — 3 турника треугольник (Kenguru)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-54",
+  "numero": "54",
+  "nome": "Monkey Bars em Arco",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Travessia suspensa que sobe e desce.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KENGURU_Gari",
+   "fabricante": "Kenguru",
+   "modelo": "Гари — рукоход в подъём (Kenguru)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-55",
+  "numero": "55",
+  "nome": "Estação de Bandeira Humana",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Bandeira humana (human flag): segurar o poste vertical com as duas mãos e manter o corpo na horizontal.",
+  "alturaUso": "VÁRIAS ALTURAS",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW220",
+   "fabricante": "Kompan",
+   "modelo": "Human Flag Wall FSW220 (Kompan)",
+   "zona": {
+    "aMm": 5270,
+    "bMm": 4170
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-56",
+  "numero": "56",
+  "nome": "Paralela de Parede",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Mergulho (dips) apoiado por cima das alças presas na parede.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Parede",
+  "referencia": {
+   "codigo": "VALOR_DP-2",
+   "fabricante": "Valor Fitness",
+   "modelo": "DP-2 Foldable Wall Mounted Dip Station (Valor Fitness)",
+   "zona": null,
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-57",
+  "numero": "57",
+  "nome": "Estação Hexagonal de Barras",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Barra fixa em várias alturas para várias pessoas.",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW217",
+   "fabricante": "Kompan",
+   "modelo": "Hexagon Pull Up Station FSW217 (Kompan)",
+   "zona": {
+    "aMm": 6160,
+    "bMm": 5730
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-58",
+  "numero": "58",
+  "nome": "Barreiras de Salto Progressivas",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Saltar por cima ou passar por baixo das barreiras.",
+  "alturaUso": "BAIXA (perto do chão)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW211",
+   "fabricante": "Kompan",
+   "modelo": "Hurdles FSW211 (Kompan)",
+   "zona": {
+    "aMm": 4630,
+    "bMm": 9500
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-59",
+  "numero": "59",
+  "nome": "Estação de Flexão Inclinada",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Flexão inclinada segurando as pegadas verticais.",
+  "alturaUso": "MÉDIA (altura do quadril/peito — a pessoa apoia as mãos e sustenta o corpo por cima)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW206",
+   "fabricante": "Kompan",
+   "modelo": "Incline Press FSW206 (Kompan)",
+   "zona": {
+    "aMm": 4180,
+    "bMm": 3100
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ },
+ {
+  "id": "REF-60",
+  "numero": "60",
+  "nome": "Travessia com Pegadas Giratórias",
+  "secao": "Novos tipos de equipamento",
+  "exercicio": "Travessia suspensa segurando pegadas que giram (exige pegada forte).",
+  "alturaUso": "ALTA (acima da cabeça — a pessoa fica pendurada embaixo)",
+  "instalacao": "Independente (chão)",
+  "referencia": {
+   "codigo": "KOMPAN_FSW212",
+   "fabricante": "Kompan",
+   "modelo": "Double Turbo Challenge FSW212 (Kompan)",
+   "zona": {
+    "aMm": 7390,
+    "bMm": 4000
+   },
+   "areaM2": null,
+   "quedaMm": null,
+   "usuarios": null,
+   "tuboBarras": null
+  }
+ }
+]

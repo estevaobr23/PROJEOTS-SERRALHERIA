@@ -1,0 +1,722 @@
+{
+ "REF-01": {
+  "ficha": {
+   "caminho": "ficha/REF-01.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-01.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-02": {
+  "ficha": {
+   "caminho": "ficha/REF-02.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-02.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-03": {
+  "ficha": {
+   "caminho": "ficha/REF-03.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-03.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-04": {
+  "ficha": {
+   "caminho": "ficha/REF-04.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-04.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-05": {
+  "ficha": {
+   "caminho": "ficha/REF-05.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-05.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-06": {
+  "ficha": {
+   "caminho": "ficha/REF-06.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-06.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-07": {
+  "ficha": {
+   "caminho": "ficha/REF-07.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-07.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-08": {
+  "ficha": {
+   "caminho": "ficha/REF-08.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-08.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-09": {
+  "ficha": {
+   "caminho": "ficha/REF-09.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-09.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ },
+ "REF-10": {
+  "ficha": {
+   "caminho": "ficha/REF-10.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-10.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ },
+ "REF-11": {
+  "ficha": {
+   "caminho": "ficha/REF-11.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-11.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-12": {
+  "ficha": {
+   "caminho": "ficha/REF-12.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-12.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-13": {
+  "ficha": {
+   "caminho": "ficha/REF-13.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-13.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-14": {
+  "ficha": {
+   "caminho": "ficha/REF-14.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-14.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-15": {
+  "ficha": {
+   "caminho": "ficha/REF-15.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-15.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-16": {
+  "ficha": {
+   "caminho": "ficha/REF-16.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-16.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-17": {
+  "ficha": {
+   "caminho": "ficha/REF-17.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-17.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-18": {
+  "ficha": {
+   "caminho": "ficha/REF-18.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-18.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-19": {
+  "ficha": {
+   "caminho": "ficha/REF-19.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-19.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ },
+ "REF-20": {
+  "ficha": {
+   "caminho": "ficha/REF-20.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-20.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-21": {
+  "ficha": {
+   "caminho": "ficha/REF-21.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-21.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-22": {
+  "ficha": {
+   "caminho": "ficha/REF-22.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-22.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-23": {
+  "ficha": {
+   "caminho": "ficha/REF-23.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-23.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-24": {
+  "ficha": {
+   "caminho": "ficha/REF-24.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-24.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-25": {
+  "ficha": {
+   "caminho": "ficha/REF-25.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-25.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-26": {
+  "ficha": {
+   "caminho": "ficha/REF-26.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-26.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-27": {
+  "ficha": {
+   "caminho": "ficha/REF-27.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-27.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-28": {
+  "ficha": {
+   "caminho": "ficha/REF-28.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-28.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-29": {
+  "ficha": {
+   "caminho": "ficha/REF-29.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-29.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-30": {
+  "ficha": {
+   "caminho": "ficha/REF-30.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-30.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-31": {
+  "ficha": {
+   "caminho": "ficha/REF-31.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-31.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-32": {
+  "ficha": {
+   "caminho": "ficha/REF-32.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-32.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-33": {
+  "ficha": {
+   "caminho": "ficha/REF-33.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-33.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ },
+ "REF-34": {
+  "ficha": {
+   "caminho": "ficha/REF-34.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-34.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-35": {
+  "ficha": {
+   "caminho": "ficha/REF-35.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-35.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-36": {
+  "ficha": {
+   "caminho": "ficha/REF-36.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-36.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-37": {
+  "ficha": {
+   "caminho": "ficha/REF-37.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-37.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-38": {
+  "ficha": {
+   "caminho": "ficha/REF-38.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-38.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-39": {
+  "ficha": {
+   "caminho": "ficha/REF-39.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-39.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-40": {
+  "ficha": {
+   "caminho": "ficha/REF-40.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-40.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-41": {
+  "ficha": {
+   "caminho": "ficha/REF-41.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-41.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ },
+ "REF-42": {
+  "ficha": {
+   "caminho": "ficha/REF-42.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-42.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-43": {
+  "ficha": {
+   "caminho": "ficha/REF-43.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-43.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-44": {
+  "ficha": {
+   "caminho": "ficha/REF-44.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-44.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-45": {
+  "ficha": {
+   "caminho": "ficha/REF-45.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-45.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-46": {
+  "ficha": {
+   "caminho": "ficha/REF-46.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-46.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-47": {
+  "ficha": {
+   "caminho": "ficha/REF-47.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-47.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-48": {
+  "ficha": {
+   "caminho": "ficha/REF-48.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-48.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-49": {
+  "ficha": {
+   "caminho": "ficha/REF-49.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-49.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-50": {
+  "ficha": {
+   "caminho": "ficha/REF-50.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-50.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-51": {
+  "ficha": {
+   "caminho": "ficha/REF-51.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-51.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-52": {
+  "ficha": {
+   "caminho": "ficha/REF-52.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-52.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-53": {
+  "ficha": {
+   "caminho": "ficha/REF-53.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-53.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-54": {
+  "ficha": {
+   "caminho": "ficha/REF-54.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-54.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-55": {
+  "ficha": {
+   "caminho": "ficha/REF-55.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-55.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-56": {
+  "ficha": {
+   "caminho": "ficha/REF-56.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-56.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-57": {
+  "ficha": {
+   "caminho": "ficha/REF-57.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-57.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-58": {
+  "ficha": {
+   "caminho": "ficha/REF-58.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-58.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-59": {
+  "ficha": {
+   "caminho": "ficha/REF-59.png",
+   "largura": 1672,
+   "altura": 941
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-59.webp",
+   "largura": 1672,
+   "altura": 941
+  }
+ },
+ "REF-60": {
+  "ficha": {
+   "caminho": "ficha/REF-60.png",
+   "largura": 1672,
+   "altura": 940
+  },
+  "miniatura": {
+   "caminho": "miniatura/REF-60.webp",
+   "largura": 1672,
+   "altura": 940
+  }
+ }
+}

@@ -1,0 +1,25 @@
+node_modules
+.next
+out
+build
+next-env.d.ts
+*.tsbuildinfo
+
+# medições e prints
+/.verificacao/
+
+# config local do Claude Code
+/.claude/
+
+.env
+.env.local
+.env*.local
+
+supabase/.temp/
+
+.vercel
+.env*
+.verificacao-servidor.log
+
+# modo local (sem Supabase): clientes, sessões e fichas ficam aqui
+/.dados-locais/

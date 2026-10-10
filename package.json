@@ -1,0 +1,29 @@
+{
+  "name": "calistenia-60-membros",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "sincronizar": "node scripts/sincronizar-fichas.mjs",
+    "liberar": "node scripts/liberar-local.mjs",
+    "testar": "node scripts/testar-tudo.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.116.0",
+    "next": "16.3.5",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-zoom-pan-pinch": "^3.7.0",
+    "server-only": "^0.0.1",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "playwright": "^1.63.0",
+    "typescript": "^5"
+  }
+}
