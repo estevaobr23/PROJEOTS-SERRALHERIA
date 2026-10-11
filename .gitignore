@@ -23,3 +23,6 @@ supabase/.temp/
 
 # modo local (sem Supabase): clientes, sessões e fichas ficam aqui
 /.dados-locais/
+
+# fichas pagas NUNCA vão em public/ com o login ligado (a pasta public é pública)
+/public/fichas/

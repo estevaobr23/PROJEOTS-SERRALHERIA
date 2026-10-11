@@ -32,11 +32,9 @@ const orfaos = Object.keys(arquivos).filter((id) => !ids.includes(id));
 reg("todo arquivo no mapa tem projeto correspondente", orfaos.length === 0, `órfãos: ${orfaos.join(",") || "nenhum"}`);
 const reduzidas = ids.filter((id) => arquivos[id] && (arquivos[id].miniatura.largura !== arquivos[id].ficha.largura || arquivos[id].miniatura.altura !== arquivos[id].ficha.altura));
 reg("miniatura tem a MESMA resolução da ficha (qualidade máxima)", reduzidas.length === 0, `reduzidas: ${reduzidas.join(",") || "nenhuma"}`);
-const semSite = ids.filter((id) => {
-  const f = arquivos[id]?.ficha;
-  return !f || !existsSync(path.join("public", "fichas", f.caminho));
-});
-reg("as 60 fichas ORIGINAIS estão em public/fichas (site aberto)", semSite.length === 0, `faltando: ${semSite.join(",") || "nenhuma"}`);
+// Com o login ligado, NENHUMA ficha pode estar em public/ (a pasta public é pública, sem login).
+const vazou = existsSync(path.join("public", "fichas"));
+reg("nenhuma ficha em public/fichas (login ligado)", !vazou, vazou ? "public/fichas existe!" : "");
 const deitadas = Object.values(arquivos).every((a) => a.ficha.largura > a.ficha.altura);
 reg("toda ficha é deitada (giro automático faz sentido)", deitadas);
 

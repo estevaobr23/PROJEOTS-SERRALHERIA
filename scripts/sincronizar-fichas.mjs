@@ -16,8 +16,8 @@
  *   lib/config/arquivos.json  → quais fichas EXISTEM no armazenamento, com a
  *                               dimensão real lida do cabeçalho do PNG
  *
- * SITE ABERTO: o original também é copiado para public/fichas/ficha/ — é de lá
- * que o site (sem banco, sem login) serve as fichas, inclusive na Vercel.
+ * SITE ABERTO (flag --site): o original também é copiado para public/fichas/ficha/,
+ * de onde o site sem login serve as fichas. NÃO use com o login ligado.
  *
  * ARMAZENAMENTO (mesma regra do app, lib/dados/motor.ts):
  *   • com NEXT_PUBLIC_SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY → sobe para o
@@ -313,10 +313,13 @@ async function principal() {
     const img = lerImagem(local);
     const caminhoFicha = await guardar("ficha", `${p.id}.${img.ext}`, img.bytes, img.tipo);
 
-    // SITE ABERTO: o original também vai para public/fichas/ficha/ (vai no Git e é servido direto).
-    mkdirSync(path.join("public", "fichas", "ficha"), { recursive: true });
-    const alvoSite = path.join("public", "fichas", caminhoFicha);
-    if (!existsSync(alvoSite) || statSync(alvoSite).size !== img.bytes.length) writeFileSync(alvoSite, img.bytes);
+    // SITE ABERTO (só com --site): o original também vai para public/fichas/ficha/ e é
+    // servido direto, SEM LOGIN. Com o login ligado NUNCA use isto: a pasta public é pública.
+    if (process.argv.includes("--site")) {
+      mkdirSync(path.join("public", "fichas", "ficha"), { recursive: true });
+      const alvoSite = path.join("public", "fichas", caminhoFicha);
+      if (!existsSync(alvoSite) || statSync(alvoSite).size !== img.bytes.length) writeFileSync(alvoSite, img.bytes);
+    }
 
     // sem resize e sem perda: effort 6 = a compressão mais cuidadosa (mais lenta, menor)
     const { data: mini, info } = await sharp(img.bytes)
