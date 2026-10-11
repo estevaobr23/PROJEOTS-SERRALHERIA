@@ -65,6 +65,10 @@ if (!titulo || titulo.startsWith("--")) {
   console.error('Uso: node scripts/testar-webhook.mjs --titulo "Nome do Produto"');
   process.exit(1);
 }
+if (!WEBHOOK_SECRET) {
+  console.log("PENDENTE — CAKTO_WEBHOOK_SECRET não está no ambiente: sem ele não há como simular o webhook (e o secret também precisa estar nos secrets da Edge Function).");
+  process.exit(0);
+}
 for (const [nome, v] of [
   ["NEXT_PUBLIC_SUPABASE_URL", SUPABASE_URL],
   ["SUPABASE_SERVICE_ROLE_KEY", SERVICE_KEY],

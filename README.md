@@ -2,11 +2,10 @@
 
 Next 16 + (Supabase depois) + webhook Cakto. Veja `AGENTS.md` antes de mexer no código: esta versão do Next tem mudanças.
 
-## Modo atual: SITE ABERTO (sem login, sem Supabase)
-`lib/config/modo.ts` → `SITE_ABERTO = true`. A área é só o entregável em forma de site: **qualquer pessoa com o endereço
-vê os 60 projetos e os 4 bônus e baixa as fichas.** Nada de banco, e-mail ou variável de ambiente — na Vercel basta o deploy.
-As 60 fichas originais ficam em `public/fichas/ficha/` (neste repositório) e são servidas direto.
-Para voltar ao login por e-mail: `SITE_ABERTO = false` + configurar o Supabase (seção abaixo).
+## Modo atual: LOGIN POR E-MAIL (Supabase)
+`lib/config/modo.ts` → `SITE_ABERTO = false`. Só entra quem tem compra aprovada; sem senha. Compra/reembolso chegam pelo
+webhook da Cakto (Edge Function `cakto-webhook` no projeto Supabase `serralheiros-membros`). As fichas ficam no bucket
+privado `fichas` (URL assinada de 1h). `public/fichas` só é usado se `SITE_ABERTO = true`.
 
 ## Rodar na sua máquina (modo local, sem Supabase)
 ```
